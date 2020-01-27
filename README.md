@@ -51,7 +51,7 @@ If you think any of the roadmaps can be improved, feel free to discuss it in the
 
 ## 🙌 Contribution
 
-> Have a look at [contribution docs](./CONTRIBUTING(KR).txt) for how to update any of the roadmaps
+> Have a look at [contribution docs](./CONTRIBUTING(KR).md) for how to update any of the roadmaps
 
 - Open pull request with improvements
 - Discuss ideas in issues
