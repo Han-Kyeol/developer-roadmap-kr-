@@ -25,25 +25,25 @@ If you think that these can be improved in any way, please do suggest.
 
 ## Introduction
 
-![Web Developer Roadmap Introduction](./img/intro.png)
+![Web Developer Roadmap Introduction](./img/intro(kr).png)
 
 ## Frontend Roadmap
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
-![Frontend Roadmap](./img/frontend.png?year-2020-2)
+![Frontend Roadmap](./img/frontend(kr).png)
 
 ## Back-end Roadmap 
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/backend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
 
-![Back-end Roadmap](./img/backend.png?year-2020-1)
+![Back-end Roadmap](./img/backend(kr).png)
 
 ## DevOps Roadmap
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
 
-![DevOps Roadmap](./img/devops.png)
+![DevOps Roadmap](./img/devops(kr).png)
 
 ## 🚦 Wrap Up
 
@@ -51,7 +51,7 @@ If you think any of the roadmaps can be improved, feel free to discuss it in the
 
 ## 🙌 Contribution
 
-> Have a look at [contribution docs](./CONTRIBUTING.md) for how to update any of the roadmaps
+> Have a look at [contribution docs](./CONTRIBUTING(KR).txt) for how to update any of the roadmaps
 
 - Open pull request with improvements
 - Discuss ideas in issues
