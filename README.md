@@ -6,54 +6,54 @@
 
 [![](https://img.shields.io/badge/-Detailed%20Content%20on%20the%20Website%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 
-아래에는 여러분이 선택할 수 있는 진로와, 프론트엔드, 백엔드 또는 데브옵스가 되기 위해 채택할 기술들을 나타내는 차트들이 있습니다. 저는 무언가 공유하면서 대학 학부생들에게 통찰력을 주고싶어 하셨던 제 노교수님을 위해 본 차트를 작성했습니다. 이렇게 커뮤니티를 돕기 위해 이곳에 공유하면서 말이죠
+아래에는 여러분이 선택할 수 있는 진로와, 프론트엔드, 백엔드 또는 데브옵스가 되기 위해 채택할 기술들을 나타내는 차트들이 있습니다. 저는 무언가 공유하면서 대학 학부생들에게 통찰력을 주고싶어 하셨던 제 노교수님을 위해 본 차트를 작성했습니다. 이렇게 커뮤니티를 돕기 위해 이곳에 공유하면서 말이죠.
 
 ***
 <p align="center"><b> 🎉 우리는 다음의 로드맵에 확장 버전에 대해 작업중입니다 🎉 </b><br><a href="http://roadmap.sh">roadmap.sh</a>의 업데이트를 항상 참고하세요!</p>
 
 ***
 
-<h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
+<h3 align="center"><strong>본 로드맵의 목적</strong></h3>
 
-> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
+> 본 로드맵의 목적은 여러분이 다음에 무엇을 배울지 헷갈릴 때 개략적인 가이드를 주기 위함이며, 힙하고 트렌디한 것들을 선택하도록 하는 것이 아닙니다. 어떨 때 어떤 도구가 왜 더 잘 맞는지에 대해 계속해서 이해하셔야 하며, 힙하고 트렌디한 것이 반드시 최고가 아님을 명심하세요.
 
-<h3 align="center"><strong>Note to Beginners</strong></h3>
+<h3 align="center"><strong>초급자 여러분들에게</strong></h3>
 
-> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will [release it soon](https://roadmap.sh) after we are done with the 2020 release of the Backend and DevOps roadmaps.
+> 본 로드맵은 하단의 진로를 위해 배워야 할 모든 것을 다룹니다. 겁먹지 마시고, 여러분이 이제 막 시작하는 단계라면 모든걸 배울 필요는 전혀 없습니다. 저희는 본 로드맵의 초급자 버전에 대해서도 작업중이며 추후 [곧 출시] (https://roadmap.sh) 백엔드, 데브옵스 로드맵에 대해서도 2020년 버전을 완수할 계획입니다.
 
 ***
 
-If you think that these can be improved in any way, please do suggest.
+본 로드맵에 대해 의견이 있으신 분들은 언제든지 제시해주세요.
 
-## Introduction
+## 개요
 
-![Web Developer Roadmap Introduction](./img/intro(kr).png)
+![웹개발자 로드맵 개요](./img/intro(kr).png)
 
-## Frontend Roadmap
+## 프론트 엔드 로드맵
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
-![Frontend Roadmap](./img/frontend(kr).png)
+![프론트엔드 로드맵](./img/frontend(kr).png)
 
-## Back-end Roadmap 
+## 백엔드 로드맵
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/backend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
 
-![Back-end Roadmap](./img/backend(kr).png)
+![백엔드 로드맵](./img/backend(kr).png)
 
-## DevOps Roadmap
+## 데브옵스 로드맵
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
 
-![DevOps Roadmap](./img/devops(kr).png)
+![데브옵스 로드맵](./img/devops(kr).png)
 
-## 🚦 Wrap Up
+## 🚦 마치며
 
-If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
+언제든지 개선할 부분이 있으면 issue에 discuss 해주세요. 저 또한 끊임없이 본 로드맵을 개선해 나갈 것이며, 그리하여 여러분들이 본 저장소를 꾸준히 보고싶어하고, [roadmap.sh](http://roadmap.sh)을 방문하고 구독하고 싶어하게 되기를 바랍니다.
 
-## 🙌 Contribution
+## 🙌 기여
 
-> Have a look at [contribution docs](./CONTRIBUTING(KR).md) for how to update any of the roadmaps
+> 로드맵 변경 방법에 대해 다음의 [contribution docs](./CONTRIBUTING(KR).md) 을 참고하세요.
 
 - Open pull request with improvements
 - Discuss ideas in issues
