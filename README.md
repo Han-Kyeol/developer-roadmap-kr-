@@ -1,13 +1,15 @@
 ![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
 
-> Roadmap to becoming a web developer in 2020
+본 저장소는 kamranahmedse의 developer-roadmap(https://github.com/kamranahmedse/developer-roadmap) 을 한국어로 번역한 저장소 입니다.
+
+> 웹 개발자가 되기위한 2020 로드맵
 
 [![](https://img.shields.io/badge/-Detailed%20Content%20on%20the%20Website%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+아래에는 여러분이 선택할 수 있는 진로와, 프론트엔드, 백엔드 또는 데브옵스가 되기 위해 채택할 기술들을 나타내는 차트들이 있습니다. 저는 무언가 공유하면서 대학 학부생들에게 통찰력을 주고싶어 하셨던 제 노교수님을 위해 본 차트를 작성했습니다. 이렇게 커뮤니티를 돕기 위해 이곳에 공유하면서 말이죠
 
 ***
-<p align="center"><b> 🎉 We are working on an extended version of these roadmaps 🎉 </b><br>Keep your eyes on <a href="http://roadmap.sh">roadmap.sh</a> for the updates!</p>
+<p align="center"><b> 🎉 우리는 다음의 로드맵에 확장 버전에 대해 작업중입니다 🎉 </b><br><a href="http://roadmap.sh">roadmap.sh</a>의 업데이트를 항상 참고하세요!</p>
 
 ***
 
