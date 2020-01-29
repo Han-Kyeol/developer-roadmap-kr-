@@ -2511,8 +2511,8 @@
           "properties": { "color": "16770457" },
           "typeID": "TextArea",
           "w": "296",
-          "x": "231",
-          "y": "832",
+          "x": "155",
+          "y": "763",
           "zOrder": "93"
         },
         {
@@ -3510,7 +3510,7 @@
                     "text": "Gitlab"
                   },
                   "typeID": "Label",
-                  "w": "52",
+                  "w": "61",
                   "x": "89",
                   "y": "12",
                   "zOrder": "1"
@@ -3523,7 +3523,8 @@
                   "properties": {
                     "backgroundAlpha": "0.25",
                     "borderColor": "6710886",
-                    "color": "15658734"
+                    "color": "15658734",
+                    "text": ""
                   },
                   "typeID": "TextArea",
                   "w": "230",
@@ -4842,7 +4843,7 @@
             "text": "NgRx"
           },
           "typeID": "Label",
-          "w": "44",
+          "w": "59",
           "x": "1222",
           "y": "1880",
           "zOrder": "227"
@@ -4868,7 +4869,7 @@
             "text": "Styled Components"
           },
           "typeID": "Label",
-          "w": "169",
+          "w": "176",
           "x": "177",
           "y": "1872",
           "zOrder": "229"
@@ -4894,7 +4895,7 @@
             "text": "CSS Modules"
           },
           "typeID": "Label",
-          "w": "110",
+          "w": "119",
           "x": "208",
           "y": "1913",
           "zOrder": "231"
