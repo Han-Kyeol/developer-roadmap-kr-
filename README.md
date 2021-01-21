@@ -1,6 +1,8 @@
 ![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
 
-본 저장소는 kamranahmedse의 developer-roadmap(https://github.com/kamranahmedse/developer-roadmap) 을 한국어로 번역한 저장소 입니다.
+* 이 문서는 kamranahmedse의 2020년 로드맵을 기준으로 하고있습니다. 이후로는 karanahmedse의 원래의 저장소에서 <a href="https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/korean">한국어 버전</a>이 공식적으로 번역돼 업데이트 되고 있으니, 해당 내용을 참조하시어 더 유익한 정보를 얻어보세요! *
+ 
+ 본 저장소는 kamranahmedse의 developer-roadmap(https://github.com/kamranahmedse/developer-roadmap) 을 한국어로 번역한 저장소 입니다.
 
 > 웹 개발자가 되기위한 2020 로드맵
 
